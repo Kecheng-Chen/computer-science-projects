@@ -5,3 +5,4 @@ This is a repository collecting the computer science course projects done by Kec
 * [Computer Vision](https://github.com/Kecheng-Chen/computer-vision)
 * [Deep Learning](https://github.com/Kecheng-Chen/deep-learning)
 * [Parallel Computing](https://github.com/Kecheng-Chen/final_project)
+* [Algorithm](https://github.com/Kecheng-Chen/algorithm)
