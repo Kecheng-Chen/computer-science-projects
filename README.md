@@ -6,3 +6,4 @@ This is a repository collecting the computer science course projects done by Kec
 * [Deep Learning](https://github.com/Kecheng-Chen/deep-learning)
 * [Parallel Computing](https://github.com/Kecheng-Chen/final_project)
 * [Algorithm](https://github.com/Kecheng-Chen/algorithm)
+* [C++](https://github.com/Kecheng-Chen/SimCenterBootcamp2023)
