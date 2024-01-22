@@ -1,5 +1,5 @@
 # computer-science-projects
-![Leetcode Stats](https://leetcard.jacoblin.cool/Kecheng-Chen)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kecheng-Chen?theme=unicorn)
 
 This is a repository collecting the computer science course projects done by Kecheng Chen.
 * [Data Science](https://github.com/Kecheng-Chen/data-science)
