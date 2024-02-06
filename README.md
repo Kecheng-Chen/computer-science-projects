@@ -16,6 +16,12 @@ This repository collects the computer science course projects done by Kecheng Ch
 
 2. Car Movement
 
+![car_mov1](https://github.com/Kecheng-Chen/computer-science-projects/assets/54642184/50ce6c68-f1d7-4051-9f64-eb74f7b23e49)
 
 
+3. Dynamic Fire and Fog
+
+![fire1](https://github.com/Kecheng-Chen/computer-science-projects/assets/54642184/d40ab200-7c9c-4562-add2-dd0256f321c4)
+![fire2](https://github.com/Kecheng-Chen/computer-science-projects/assets/54642184/e1d96b55-38bd-44e1-8301-0d0d41ccf4e7)
+![fire3](https://github.com/Kecheng-Chen/computer-science-projects/assets/54642184/d694277c-74e4-476f-95bc-6b5624f2d83d)
 
