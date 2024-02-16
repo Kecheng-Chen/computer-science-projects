@@ -9,6 +9,7 @@ This repository collects the computer science course projects done by Kecheng Ch
 * [Parallel Computing](https://github.com/Kecheng-Chen/final_project)
 * [Algorithm](https://github.com/Kecheng-Chen/algorithm)
 * [C++](https://github.com/Kecheng-Chen/SimCenterBootcamp2023)
+* [Microprocessor](https://github.com/Kecheng-Chen/microprocessor)
 * [Unity-Wildfires](https://www.youtube.com/watch?v=Hu5GZwlxnJ4)
 1. Car Placement
 
